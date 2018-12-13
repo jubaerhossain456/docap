@@ -1,0 +1,122 @@
+.grid-images{}
+.custom-dark{
+    border-radius:  1px;
+    padding: 10px 30px;
+    font-weight:  800;
+    font-size:  13px;
+}
+.banner-text{}
+.banner-text p{}
+.p-span{
+    height: 2px;
+    width: 35px;
+    background-color:  #000;
+    display:  inline-block;
+    margin-right:  5px;
+}
+
+.img-grid{
+    padding: 65px 0;
+}
+.grid-ul{
+    list-style:  none;
+    margin-bottom:  30px;
+}
+.grid-link{
+    display:  inline-block;
+    margin-right:  25px;
+}
+.grid-item{
+    color: #666;
+}
+.grid-item:hover{
+    text-decoration:  none;
+    color: #ab263f;
+}
+.view-btn{
+    margin: 25px 0;
+}
+
+.blog-section{
+    background-color: #F6F6F6;
+    padding: 100px 0;
+}
+.heading{
+    text-align:  center;
+    margin-bottom:  50px;
+}
+.heading h3{}
+.heading h3:after{
+	content: "";
+	display:  block;
+	width: 70px;
+	height:  2px;
+	background-color: #666;
+	margin-left: auto;
+	margin-right:  auto;
+	margin-top:  15px;
+}
+.heading p{}
+.blog-items{
+    background-color: #fff;
+    box-sizing:  border-box;
+    padding: 25px;
+    border-radius:  5px;
+}
+.blog-items img{}
+.blog-items p{}
+.blog-items h5{}
+.blog-items a{
+    color: #000;
+    font-size:  14px;
+    font-weight:  800;
+}
+
+footer{}
+footer h3{}
+.social-list{
+    list-style:  none;
+    margin: 20px 0;
+    padding:  0;
+}
+.social-link{
+    display:  inline-block;
+    margin-right:  20px;
+}
+.social-icon{
+}
+.fb{
+    padding: 15px 19px!important;
+}
+.icon{
+    background-color: #000;
+    border-radius: 50%;
+    padding: 16px;
+    color: #fff;
+    font-size: 16px;
+}
+.menu-list{padding: 0;list-style:  none;margin: 15px 0;}
+.menu-link{
+    display:  inline-block;
+    margin-right: 15px;
+}
+.menu-link:after{
+	content: "";
+	height: 5px;
+	display: inline-block;
+	width: 5px;
+	background-color: #000;
+	border-radius:  50px;
+	margin-left: 9px;
+	margin-bottom: 3px;
+}
+.menu-link:last-child:after{}
+.menu-item{
+    color: #666;
+    font-size:  15px;
+    font-weight:  600;
+}
+.menu-item:hover{
+    text-decoration:  none;
+    color: #666;
+}
